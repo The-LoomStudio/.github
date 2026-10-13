@@ -37,4 +37,10 @@ Loom Studio is currently in Beta. Extensions are maintained independently; see t
 
 Ideas, feedback, and contributions to code or documentation are welcome. Open an issue or pull request in the relevant project.
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/The-LoomStudio/LoomStudio-website/02791640977e1800de66a697cf6bc28a5eaf521d/public/images/nom/stickers/fullbody/resting.png" alt="Nom resting with a storybook" width="128" />
+
 There is still so much story to tell. Let's take our time.
+
+</div>

@@ -38,4 +38,10 @@ Loom Studio 目前处于 Beta 阶段。扩展独立维护，使用方式与发�
 
 欢迎分享想法、反馈问题，或参与代码与文档贡献。请到对应项目提交 Issue 或 Pull Request。
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/The-LoomStudio/LoomStudio-website/02791640977e1800de66a697cf6bc28a5eaf521d/public/images/nom/stickers/fullbody/resting.png" alt="抱着故事书休息的 Nom" width="128" />
+
 故事还长，我们慢慢讲。
+
+</div>
