@@ -2,7 +2,7 @@
 
 **简体中文** · [English](https://github.com/The-LoomStudio/.github/blob/main/profile/README.en.md)
 
-<img src="https://raw.githubusercontent.com/The-LoomStudio/.github/main/profile/assets/loom-studio-banner.png" alt="诺姆捧着书，身后是海岸拼贴与 Loom Studio 字样" width="960" />
+<img src="https://raw.githubusercontent.com/The-LoomStudio/.github/main/profile/assets/loom-studio-banner.png" alt="雨窗旁，诺姆与棕发伙伴一起读书，左侧是 Loom Studio 标志" width="960" />
 
 # Loom Studio
 

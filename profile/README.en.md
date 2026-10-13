@@ -2,7 +2,7 @@
 
 [简体中文](https://github.com/The-LoomStudio) · **English**
 
-<img src="https://raw.githubusercontent.com/The-LoomStudio/.github/main/profile/assets/loom-studio-banner.png" alt="Nom holding a book in front of a coastal collage and the Loom Studio wordmark" width="960" />
+<img src="https://raw.githubusercontent.com/The-LoomStudio/.github/main/profile/assets/loom-studio-banner.png" alt="Nom and a brown-haired companion reading together beside a rain-streaked window, with the Loom Studio logo on the left" width="960" />
 
 # Loom Studio
 
